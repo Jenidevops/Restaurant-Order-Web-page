@@ -14,5 +14,5 @@ HTML5
 CSS3
 
 📁 How to Use
-Clone the repository
-git clone https://github.com/yourusername/restaurant-order-page.git
+
+link: https://jenidevops.github.io/Restaurant-Order-Web-page/
